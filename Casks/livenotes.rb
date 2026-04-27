@@ -1,6 +1,6 @@
 cask "livenotes" do
   version "0.1.0"
-  sha256 "b7075ceb4035e04a91cc166460c17a39e0098c3e1d3cf9f09a2c3d966055a678"
+  sha256 "4bcab683aff11cdcc027f42538fb6ca49df29355d7c64ffc4e0831f990828206"
 
   url "https://github.com/yongyaoduan/LiveNotes/releases/download/v0.1.0/LiveNotes-0.1.0.zip"
   name "LiveNotes"
