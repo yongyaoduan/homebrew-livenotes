@@ -1,8 +1,8 @@
 cask "livenotes" do
-  version "0.1.1"
-  sha256 "3c1d69cbb509e18787ede375b846079a72891a46482384f2ba409864a8022af0"
+  version "0.1.2"
+  sha256 "839db45429ca4aab6d553d4e9277e8515bce898d3ea90af993a5104be9761499"
 
-  url "https://github.com/yongyaoduan/LiveNotes/releases/download/v0.1.1/LiveNotes-0.1.1.zip"
+  url "https://github.com/yongyaoduan/LiveNotes/releases/download/v0.1.2/LiveNotes-0.1.2.zip"
   name "LiveNotes"
   desc "Local live recording, transcription, translation, and saved transcripts"
   homepage "https://github.com/yongyaoduan/LiveNotes"
